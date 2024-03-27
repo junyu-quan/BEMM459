@@ -1,0 +1,74 @@
+﻿material_id,course_id,title,session_number
+10000001,10001,Python Programming Basics,1
+10000002,10001,Python Programming Advanced,2
+10000003,10002,AI Fundamentals,1
+10000004,10002,AI Applications,2
+10000005,10003,App Development Basics,1
+10000006,10003,App Development Advanced,2
+10000007,10004,Data Science Basics,1
+10000008,10004,Data Science Advanced,2
+10000009,10005,Economics Principles,1
+10000010,10005,Economics Applications,2
+10000011,10006,Accounting Fundamentals,1
+10000012,10006,Accounting Advanced,2
+10000013,10007,Writing Techniques,1
+10000014,10007,Writing Practice,2
+10000015,10008,Web Development Fundamentals,1
+10000016,10008,Web Development Advanced,2
+10000017,10009,Psychology Basics,1
+10000018,10009,Psychology Applications,2
+10000019,10010,Data Visualization Basics,1
+10000020,10010,Data Visualization Advanced,2
+10000021,10011,Photography Techniques,1
+10000022,10011,Photography Practice,2
+10000023,10012,Photography Fundamentals,1
+10000024,10012,Photography Advanced,2
+10000025,10013,Design Basics,1
+10000026,10013,Design Advanced,2
+10000027,10014,Marketing Basics,1
+10000028,10014,Marketing Advanced,2
+10000029,10015,Computer Science Basics,1
+10000030,10015,Computer Science Advanced,2
+10000031,10016,Entrepreneurship Basics,1
+10000032,10016,Entrepreneurship Advanced,2
+10000033,10017,Machine Learning Basics,1
+10000034,10017,Machine Learning Advanced,2
+10000035,10018,Fitness Basics,1
+10000036,10018,Nutrition Basics,2
+10000037,10019,Management Basics,1
+10000038,10019,Business Advanced,2
+10000039,10020,Music Production Basics,1
+10000040,10020,Music Production Advanced,2
+10000041,10021,Project Management Basics,1
+10000042,10021,Project Management Advanced,2
+10000043,10021,Project Management Practice,3
+10000044,10022,Cybersecurity Basics,1
+10000045,10022,Cybersecurity Advanced,2
+10000046,10022,Cybersecurity Practice,3
+10000047,10023,Digital Marketing Basics,1
+10000048,10023,Digital Marketing Advanced,2
+10000049,10023,Digital Marketing Practice,3
+10000050,10024,Artificial Intelligence Basics,1
+10000051,10024,Artificial Intelligence Advenced,2
+10000052,10024,Artificial Intelligence Practice,3
+10000053,10025,Python Data Visualization Basics,1
+10000054,10025,Python Data Visualization Advanced,2
+10000055,10025,Python Data Visualization Practice,3
+10000056,10026,JavaScript Basics,1
+10000057,10026,JavaScript Advanced,2
+10000058,10026,JavaScript Practice,3
+10000059,10027,Database Basics,1
+10000060,10027,SQL Basics,2
+10000061,10027,Database Practice,3
+10000062,10028,Machine Learning Basics,1
+10000063,10028,Machine Learning Advanced,2
+10000064,10028,Machine Learning Practice,3
+10000065,10029,Web Development Basics,1
+10000066,10029,Web Development Advanced,2
+10000067,10029,Web Development Practice,3
+10000068,10030,Python Basics,1
+10000069,10030,Python Advanced,2
+10000070,10030,Python Practice,3
+10000071,10031,Data Science Basics,1
+10000072,10031,Data Science Advanced,2
+10000073,10031,Data Science Practice,3
